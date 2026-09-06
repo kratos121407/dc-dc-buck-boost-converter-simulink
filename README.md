@@ -24,57 +24,31 @@ This project simulates a DC-DC buck-boost converter using MATLAB/Simulink. The c
 
 ## 📊 Output
 
-\## 📊 Simulation Results
+## 📊 Simulation Results
 
+### 🔌 Circuit Diagram
 
+![Buck-Boost Converter Circuit](images/Circuit.png)
 
-\### 🔌 Circuit Diagram
+### 🌀 Inductor Current
 
+![Inductor Current](images/Inductor_current.png)
 
+### 🔋 Capacitor Current
 
-!\[Buck-Boost Converter Circuit](images/Circuit.png)
+![Capacitor Current](images/Capacitor_current.png)
 
+### ⚡ Input Current
 
+![Input Current](images/Input_current.png)
 
-\### 🌀 Inductor Current
+### 🔌 Output Current
 
+![Output Current](images/Output_current.png)
 
+### 🔄 Diode Current and Voltage
 
-!\[Inductor Current](images/Inductor\_current.png)
-
-
-
-\### 🔋 Capacitor Current
-
-
-
-!\[Capacitor Current](images/Capacitor\_current.png)
-
-
-
-\### ⚡ Input Current
-
-
-
-!\[Input Current](images/Input\_current.png)
-
-
-
-\### 🔌 Output Current
-
-
-
-!\[Output Current](images/Output\_current.png)
-
-
-
-\### 🔄 Diode Current and Voltage
-
-
-
-!\[Diode Current and Voltage](images/Diode\_current\_and\_voltage.png)
-
-
+![Diode Current and Voltage](images/Diode_current_and_voltage.png)
 
 ## 📚 Applications
 
@@ -86,4 +60,3 @@ This project simulates a DC-DC buck-boost converter using MATLAB/Simulink. The c
 ## 🤝 Acknowledgment
 
 This project was developed with the help of online tutorials and learning resources.
-
