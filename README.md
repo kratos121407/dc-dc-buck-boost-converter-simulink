@@ -72,7 +72,7 @@ This project simulates a DC-DC buck-boost converter using MATLAB/Simulink. The c
 
 
 
-!\[Diode Current and Voltage](images/Diode\_current\_\&\_voltage.png)
+!\[Diode Current and Voltage](images/Diode\_current\_and\_voltage.png)
 
 
 
